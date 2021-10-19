@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IaroslavInternational](https://github.com/IaroslavInternational)
 
+- 💻 Wakatime stats since (reg 16.10.2021) [https://wakatime.com/@IaroslavIDev](https://wakatime.com/@IaroslavIDev)
+
 - 💬 Ask me about **programming on C/C++, dev-t in common**
 
 - 📫 How to reach me **IaroslavInternational@yandex.ru**
