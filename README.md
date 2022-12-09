@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iaroslav</h1>
+<h1 align="center">Hi 👋, I'm Jaroslav</h1>
 <h3 align="center">Game/Soft developer from Russia</h3>
 
 <h4> Total time coded since 16 October 2021:</h4>
